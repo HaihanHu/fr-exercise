@@ -1,4 +1,4 @@
-# fr-exercise
+
 # Fetch Rewards Coding Exercise
 
 ## First: 
