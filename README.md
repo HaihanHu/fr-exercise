@@ -23,6 +23,7 @@ In the **data_quality.pdf**  file.
 
 **Communicate with Stakeholders.** 
 
+In the **email.pdf**  file
 
 -   What questions do you have about the data?
 -   How did you discover the data quality issues?
