@@ -23,10 +23,5 @@ In the **data_quality.pdf**  file.
 
 **Communicate with Stakeholders.** 
 
-In the **email.pdf**  file
+In the **email.pdf**  file.
 
--   What questions do you have about the data?
--   How did you discover the data quality issues?
--   What do you need to know to resolve the data quality issues?
--   What other information would you need to help you optimize the data assets you're trying to create?
--   What performance and scaling concerns do you anticipate in production and how do you plan to address them?
